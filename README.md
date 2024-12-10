@@ -23,8 +23,13 @@ Ensure the following tools are installed on your system and accessible in your e
 ### Environment Setup
 
 #### Install Go
-The script relies on several tools written in Go. If Go is not installed, install it using the following commands:
-```bash
-sudo apt update
-sudo apt install golang-go -y
+The script relies on several tools written in Go. If Go is not installed, install it.
 
+
+### Installation Steps
+git clone https://github.com/The-Magician-1337/Bug-Bounty-Recon-Automation.git
+cd Bug-Bounty-Recon-Automation
+chmod +x recon.sh
+
+### Usage 
+./recon.sh
