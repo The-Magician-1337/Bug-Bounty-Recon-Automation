@@ -28,6 +28,7 @@ The script relies on several tools written in Go. If Go is not installed, instal
 
 ### Installation Steps
 git clone https://github.com/The-Magician-1337/Bug-Bounty-Recon-Automation.git
+
 cd Bug-Bounty-Recon-Automation
 
 chmod +x recon.sh
